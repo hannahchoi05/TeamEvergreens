@@ -1,3 +1,6 @@
+### Passion project made in 2021 for environmental protection
+
+
 ### Image Attributions
 - [main] (https://pixabay.com/images/id-505860/)
 - [airPolution] (https://pixabay.com/photos/coal-fired-power-plant-coal-energy-3767893/)
